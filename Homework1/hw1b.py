@@ -1,6 +1,9 @@
 #    Xiaoling Zheng
 #    CSCI.561 hw1b
 #    Sept. 17 2018
+#
+#    Description: An invariant of N-queens problem; sovlved by DFS with greedy approach prunings 
+#
 
 from heapq import heappush, heappop
 import itertools
