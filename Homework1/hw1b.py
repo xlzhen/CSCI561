@@ -59,7 +59,7 @@ class BestValue:
         return self._solution
 
 def main():
-    fp_in = open("input12.txt", "r")
+    fp_in = open("input.txt", "r")
     # read file, store values into variable; populate table
     dimension = int(fp_in.readline())
     num_of_officer = int(fp_in.readline())
