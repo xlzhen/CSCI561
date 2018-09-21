@@ -1,2 +1,2 @@
-# CSCI571
+# CSCI561
 Foundations of AI
